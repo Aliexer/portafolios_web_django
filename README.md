@@ -1,0 +1,1 @@
+este proyecto se basa en colocar un portafolio en la web por medio de djangoCMS y Boopstrap
